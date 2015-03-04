@@ -4,8 +4,8 @@ HtmlVisibleEditor is a javascript environment use to online and visible edit htm
 
 ## Requirements
 
-- coffee version
-- web server
+- coffee-script
+- a simple web server
 
 ## Installation
 
