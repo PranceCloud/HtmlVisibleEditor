@@ -9,4 +9,6 @@ HtmlVisibleEditor is a javascript environment use to online and visible edit htm
 
 ## Installation
 
+`npm install`
+
 ## Usage
