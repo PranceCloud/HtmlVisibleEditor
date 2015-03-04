@@ -8,7 +8,7 @@ gulp.task 'default', () ->
   watcher = gulp.watch "src/**/*.coffee";
   watcher.on 'change', (event)->
     console.log('File ' + event.path + ' was ' + event.type + ', running tasks...');
-    gulp.src ["src/start.coffee", "src/main/**/*.coffee", "src/iframe/**/*.coffee", "src/components/**/*.coffee"]
+    gulp.src ["./src/start.coffee", "./src/main/**/*.coffee", "./src/iframe/**/*.coffee", "./src/components/**/*.coffee"]
     .pipe coffee({bare: true}).on 'error', (err) ->
       console.log err.name
       console.log err.stack
