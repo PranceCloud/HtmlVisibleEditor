@@ -22,3 +22,7 @@ or
 `ws`
 
 open web explore `http://localhost/` to view demo.
+
+## Test
+
+`glup test`
