@@ -1,0 +1,26 @@
+{
+  "name": "prancecloud-org-htmlvisibleeditor",
+  "version": "0.0.1",
+  "description": "Online edit html",
+  "main": "",
+  "dependencies": {
+    "coffee-script": "1.*",
+    "gulp": "3.*",
+    "event-stream": "3.*",
+    "gulp-coffee": "^2.3.0",
+    "gulp-concat": "2.*",
+    "gulp-sourcemaps": "0.*",
+    "better-console": "^0.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PranceCloud/HtmlVisibleEditor.git"
+  },
+  "author": "Fred Wu",
+  "license": "Apache License",
+  "bugs": {
+    "url": "https://github.com/PranceCloud/HtmlVisibleEditor/issues"
+  },
+  "homepage": "https://github.com/PranceCloud"
+}
