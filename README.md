@@ -2,6 +2,8 @@
 
 HtmlVisibleEditor is a javascript environment use to online and visible edit html code by coffee-script.
 
+[Old github link](https://github.com/wgq91here/PranceCloudWeb)
+
 ## Requirements
 
 - coffee-script
