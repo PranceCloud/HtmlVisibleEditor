@@ -13,7 +13,9 @@ HtmlVisibleEditor is a javascript environment use to online and visible edit htm
 
 ## Usage
 
-`glup` to watch *.coffee
+`glup` 
+
+to watch *.coffee
 
 or
 
