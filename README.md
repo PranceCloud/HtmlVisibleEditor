@@ -25,7 +25,7 @@ or
 
 `ws`
 
-open web explore `http://localhost/` to view demo.
+open web explore `http://localhost:8000/` to view demo.
 
 ## Test
 
